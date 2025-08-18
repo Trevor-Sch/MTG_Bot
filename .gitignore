@@ -1397,3 +1397,5 @@ venv/Scripts/pip3.8.exe
 venv/Scripts/pip3.exe
 venv/Scripts/python.exe
 venv/Scripts/pythonw.exe
+JsonFiles/AtomicCards.json
+JsonFiles/raw_decks.json
